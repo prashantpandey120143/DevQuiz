@@ -1,5 +1,8 @@
 # DevQuiz
 
+![1709367879660rhf7qen4-removebg-preview](https://github.com/prashantpandey120143/DevQuiz/assets/156700740/91341a4c-119e-46f9-8e61-4250c41b9c8b)
+
+
 ## Description:
 Step into the realm of the Programming Languages Quiz—an intricately curated and educational gaming experience engineered to scrutinize your foundational comprehension of three extensively-utilized programming languages: C++, Java, and Python.
 
