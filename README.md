@@ -68,7 +68,7 @@ and mastery of coding principles.
 
 #
 #### FUTURE SCOPE OF THE PROJECT
-DEVQUIZ have a lot of scope in future wherevarious modules can be upgraded.
+DevQuiz have a lot of scope in future wherevarious modules can be upgraded.
 
 1. Scalability: The online industry's growth increases demand for skilled coders. Software
 solutions like this are crucial for bridging skill gaps. Thus, systems must prioritize
